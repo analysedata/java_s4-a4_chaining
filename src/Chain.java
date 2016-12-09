@@ -11,7 +11,7 @@ class ParentChain {
 	
 	// No argument constructor
 	ParentChain() {
-		this("You are in the Parent"); // invokes one argument constructor ChainParent(String p)
+		this("You are in the Parent"); // invokes one argument constructor ParentChain(String p)
 		System.out.println("You are in the Parent no argument constructor");
 	}
 	
